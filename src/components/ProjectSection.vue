@@ -1,0 +1,104 @@
+<template>
+  <section class="about-section py-6">
+    <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-4">
+      <p
+        class="
+          h1
+          dark:text-white
+          sm:col-span-2
+          md:col-start-2 md:text-center
+          self-center
+        "
+        :class="transitionClass"
+      >
+        My Projects
+      </p>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+          md:order-first
+        "
+      ></div>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+        "
+      ></div>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+        "
+      ></div>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+        "
+      ></div>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+        "
+      ></div>
+      <div
+        class="
+          aspect-w-1
+          rounded
+          transition
+          duration-200
+          transform
+          hover:rotate-2
+          aspect-h-1
+          dark:bg-gray-50
+          bg-gray-300
+        "
+      ></div>
+    </div>
+  </section>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style>
+</style>
